@@ -1,2 +1,2 @@
-# knightrohit.github.io
+# knightrohit website
 My website repository
